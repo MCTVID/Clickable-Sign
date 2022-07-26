@@ -1,0 +1,21 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "identifier": "mctvid:clickable_sign_editor",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:max_stack_size": 1,
+      "minecraft:should_despawn": true,
+      "minecraft:icon": {
+        "texture": "stick"
+      },
+      "minecraft:foil": true,
+      "minecraft:display_name": {
+        "value": "Clickable Sign Editor"
+      },
+      "minecraft:use_duration": 1
+    }
+  }
+}
